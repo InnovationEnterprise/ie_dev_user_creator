@@ -1,0 +1,4 @@
+[servers]
+
+server-alias1 ansible_ssh_host=ip_or_domain_name1 ansible_ssh_user=sudo_username1 ansible_ssh_private_key_file=optional_pem_key_local_file_path1
+server-alias2 ansible_ssh_host=ip_or_domain_name2 ansible_ssh_user=sudo_username2 ansible_ssh_private_key_file=optional_pem_key_local_file_path2
